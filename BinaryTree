@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class BinarySearchTree {
+public class BinaryTree {
     class Node {
         int data;
         Node left, right;
