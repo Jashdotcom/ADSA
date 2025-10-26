@@ -14,7 +14,7 @@ public class BinaryTree {
 
     Node root;
 
-    public BinarySearchTree() {
+    public BinaryTree() {
         root = null;
     }
 
